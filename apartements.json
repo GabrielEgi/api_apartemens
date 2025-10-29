@@ -1,0 +1,136 @@
+{
+  "apartments": [
+    {
+      "id": 1,
+      "name": "Apartemen Taman Melati Yogyakarta",
+      "location": "Jl. Jembatan Baru UGM, Sinduadi, Kec. Mlati, Sleman, Yogyakarta",
+      "latitude": -7.76219,
+      "longitude": 110.37101,
+      "image1": "images/1.1.jpg",
+      "image2": "images/1.2.jpg",
+      "price_per_month": 3500000,
+      "rating": 4.4,
+      "facilities": ["AC", "WiFi", "Parkir Mobil"]
+    },
+    {
+      "id": 2,
+      "name": "Student Castle Apartment",
+      "location": "Jl. Student Castle, Kledokan, Caturtunggal, Depok, Sleman, Yogyakarta",
+      "latitude": -7.7719,
+      "longitude": 110.4095,
+      "image1": "images/2.1.jpg",
+      "image2": "images/2.2.jpg",
+      "price_per_month": 3200000,
+      "rating": 4.4,
+      "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"]
+    },
+    {
+      "id": 3,
+      "name": "Altuz Apartment Seturan",
+      "location": "Jl. Seturan Raya No. 10A, Kledokan, Caturtunggal, Depok, Sleman",
+      "latitude": -7.7690,
+      "longitude": 110.4070,
+      "image1": "images/3.1.jpg",
+      "image2": "images/3.2.jpg",
+      "price_per_month": 3300000,
+      "rating": 4.2,
+      "facilities": ["AC", "WiFi", "Parkir Mobil"]
+    },
+    {
+      "id": 4,
+      "name": "Uttara The Icon Apartment",
+      "location": "Jl. Kaliurang Km 5 No.72, Depok, Sleman, Yogyakarta",
+      "latitude": -7.75821,
+      "longitude": 110.38120,
+      "image1": "images/4.1.jpg",
+      "image2": "images/4.2.jpg",
+      "price_per_month": 3400000,
+      "rating": 4.3,
+      "facilities": ["AC", "WiFi", "Gym", "Parkir Mobil"]
+    },
+    {
+      "id": 5,
+      "name": "V Apartment Seturan",
+      "location": "Jl. Amarta / Seturan area, Depok, Sleman, Yogyakarta",
+      "latitude": -7.7685,
+      "longitude": 110.4090,
+      "image1": "images/5.1.jpg",
+      "image2": "images/5.2.jpg",
+      "price_per_month": 3250000,
+      "rating": 4.1,
+      "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"]
+    },
+    {
+      "id": 6,
+      "name": "Central Jogja Apartment (Jl. Laksda Adisucipto KM.8)",
+      "location": "Jl. Laksda Adisucipto Km.8 No.38, Janti / Caturtunggal, Sleman",
+      "latitude": -7.7740,
+      "longitude": 110.3740,
+      "image1": "images/6.1.jpg",
+      "image2": "images/6.2.jpg",
+      "price_per_month": 3450000,
+      "rating": 4.2,
+      "facilities": ["AC", "WiFi", "Parkir Mobil"]
+    },
+    {
+      "id": 7,
+      "name": "Malioboro Suites / Malioboro City Apartment",
+      "location": "Jl. Malioboro area / Malioboro City, Yogyakarta",
+      "latitude": -7.7920,
+      "longitude": 110.3640,
+      "image1": "images/7.1.jpg",
+      "image2": "images/7.2.jpg",
+      "price_per_month": 3600000,
+      "rating": 4.5,
+      "facilities": ["AC", "WiFi", "Kolam Renang", "Parkir Mobil"]
+    },
+    {
+      "id": 8,
+      "name": "Mataram City - Yudhistira / Arjuna Tower",
+      "location": "Kompleks Mataram City, Jalan Magelang area, Sleman/Yogyakarta",
+      "latitude": -7.7495,
+      "longitude": 110.3460,
+      "image1": "images/8.1.jpg",
+      "image2": "images/8.2.jpg",
+      "price_per_month": 3800000,
+      "rating": 4.4,
+      "facilities": ["AC", "WiFi", "Kolam Renang", "Parkir Mobil"]
+    },
+    {
+      "id": 9,
+      "name": "Jogja City Mall Apartment",
+      "location": "Jl. Magelang No.2, Sleman (Jogja City Mall area)",
+      "latitude": -7.7480,
+      "longitude": 110.3540,
+      "image1": "images/9.1.jpg",
+      "image2": "images/9.2.jpg",
+      "price_per_month": 3050000,
+      "rating": 4.1,
+      "facilities": ["AC", "WiFi", "Parkir Mobil"]
+    },
+    {
+      "id": 10,
+      "name": "Grand Seturan / Seturan-area Apartment",
+      "location": "Seturan Raya / Babarsari area, Depok, Sleman",
+      "latitude": -7.7700,
+      "longitude": 110.4080,
+      "image1": "images/10.1.jpg",
+      "image2": "images/10.2.jpg",
+      "price_per_month": 3250000,
+      "rating": 4.1,
+      "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"]
+    },
+    {
+      "id": 11,
+      "name": "Ruby / Casa Grande - Kaliurang area Apartment",
+      "location": "Jl. Kaliurang Km.5–6 area, Sleman, Yogyakarta",
+      "latitude": -7.7525,
+      "longitude": 110.3900,
+      "image1": "images/11.1.jpg",
+      "image2": "images/11.2.jpg",
+      "price_per_month": 3000000,
+      "rating": 4.0,
+      "facilities": ["AC", "WiFi", "Parkir Motor"]
+    }
+  ]
+}
