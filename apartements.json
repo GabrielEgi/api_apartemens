@@ -10,7 +10,8 @@
       "image2": "images/1.2.jpg",
       "price_per_month": 3500000,
       "rating": 4.4,
-      "facilities": ["AC", "WiFi", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Parkir Mobil"],
+      "description": "Apartemen strategis dekat Universitas Gadjah Mada dengan fasilitas lengkap dan suasana nyaman bagi mahasiswa maupun pekerja."
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "image2": "images/2.2.jpg",
       "price_per_month": 3200000,
       "rating": 4.4,
-      "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"],
+      "description": "Apartemen modern di kawasan Seturan, dikelilingi pusat kuliner dan kampus ternama, cocok untuk mahasiswa aktif."
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "image2": "images/3.2.jpg",
       "price_per_month": 3300000,
       "rating": 4.2,
-      "facilities": ["AC", "WiFi", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Parkir Mobil"],
+      "description": "Hunian minimalis dengan akses mudah ke area Babarsari dan kampus UPN, cocok untuk gaya hidup praktis."
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "image2": "images/4.2.jpg",
       "price_per_month": 3400000,
       "rating": 4.3,
-      "facilities": ["AC", "WiFi", "Gym", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Gym", "Parkir Mobil"],
+      "description": "Apartemen eksklusif di area Kaliurang dengan fasilitas gym dan keamanan 24 jam, memberikan kenyamanan maksimal."
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
       "image2": "images/5.2.jpg",
       "price_per_month": 3250000,
       "rating": 4.1,
-      "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"],
+      "description": "Apartemen nyaman dengan desain modern dan akses lift, terletak di pusat kawasan Seturan yang ramai."
     },
     {
       "id": 6,
@@ -70,7 +75,8 @@
       "image2": "images/6.2.jpg",
       "price_per_month": 3450000,
       "rating": 4.2,
-      "facilities": ["AC", "WiFi", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Parkir Mobil"],
+      "description": "Hunian modern dengan lokasi strategis dekat bandara Adisucipto dan akses transportasi mudah ke pusat kota."
     },
     {
       "id": 7,
@@ -82,7 +88,8 @@
       "image2": "images/7.2.jpg",
       "price_per_month": 3600000,
       "rating": 4.5,
-      "facilities": ["AC", "WiFi", "Kolam Renang", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Kolam Renang", "Parkir Mobil"],
+      "description": "Apartemen elegan di jantung kota Yogyakarta dengan akses langsung ke Malioboro City Mall dan fasilitas kolam renang."
     },
     {
       "id": 8,
@@ -94,7 +101,8 @@
       "image2": "images/8.2.jpg",
       "price_per_month": 3800000,
       "rating": 4.4,
-      "facilities": ["AC", "WiFi", "Kolam Renang", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Kolam Renang", "Parkir Mobil"],
+      "description": "Apartemen premium di kompleks Mataram City dengan fasilitas mewah dan pemandangan kota Yogyakarta."
     },
     {
       "id": 9,
@@ -106,7 +114,8 @@
       "image2": "images/9.2.jpg",
       "price_per_month": 3050000,
       "rating": 4.1,
-      "facilities": ["AC", "WiFi", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Parkir Mobil"],
+      "description": "Apartemen dengan akses langsung ke Jogja City Mall, cocok bagi Anda yang menyukai kemudahan dan hiburan."
     },
     {
       "id": 10,
@@ -118,7 +127,8 @@
       "image2": "images/10.2.jpg",
       "price_per_month": 3250000,
       "rating": 4.1,
-      "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"]
+      "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"],
+      "description": "Apartemen praktis di kawasan ramai Seturan, dengan fasilitas lift dan akses mudah ke area kampus."
     },
     {
       "id": 11,
@@ -130,7 +140,8 @@
       "image2": "images/11.2.jpg",
       "price_per_month": 3000000,
       "rating": 4.0,
-      "facilities": ["AC", "WiFi", "Parkir Motor"]
+      "facilities": ["AC", "WiFi", "Parkir Motor"],
+      "description": "Apartemen ekonomis di kawasan Kaliurang dengan fasilitas dasar lengkap dan suasana lingkungan yang tenang."
     }
   ]
 }
