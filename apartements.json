@@ -11,7 +11,11 @@
       "price_per_month": 3500000,
       "rating": 4.4,
       "facilities": ["AC", "WiFi", "Parkir Mobil"],
-      "description": "Apartemen strategis dekat Universitas Gadjah Mada dengan fasilitas lengkap dan suasana nyaman bagi mahasiswa maupun pekerja."
+      "description": "Apartemen strategis dekat Universitas Gadjah Mada dengan fasilitas lengkap dan suasana nyaman bagi mahasiswa maupun pekerja.",
+      "owner_contact": {
+        "name": "Rina",
+        "phone": "081234567001"
+      }
     },
     {
       "id": 2,
@@ -24,7 +28,11 @@
       "price_per_month": 3200000,
       "rating": 4.4,
       "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"],
-      "description": "Apartemen modern di kawasan Seturan, dikelilingi pusat kuliner dan kampus ternama, cocok untuk mahasiswa aktif."
+      "description": "Apartemen modern di kawasan Seturan, dikelilingi pusat kuliner dan kampus ternama, cocok untuk mahasiswa aktif.",
+      "owner_contact": {
+        "name": "Budi",
+        "phone": "081234567002"
+      }
     },
     {
       "id": 3,
@@ -37,7 +45,11 @@
       "price_per_month": 3300000,
       "rating": 4.2,
       "facilities": ["AC", "WiFi", "Parkir Mobil"],
-      "description": "Hunian minimalis dengan akses mudah ke area Babarsari dan kampus UPN, cocok untuk gaya hidup praktis."
+      "description": "Hunian minimalis dengan akses mudah ke area Babarsari dan kampus UPN, cocok untuk gaya hidup praktis.",
+      "owner_contact": {
+        "name": "Santi",
+        "phone": "081234567003"
+      }
     },
     {
       "id": 4,
@@ -50,7 +62,11 @@
       "price_per_month": 3400000,
       "rating": 4.3,
       "facilities": ["AC", "WiFi", "Gym", "Parkir Mobil"],
-      "description": "Apartemen eksklusif di area Kaliurang dengan fasilitas gym dan keamanan 24 jam, memberikan kenyamanan maksimal."
+      "description": "Apartemen eksklusif di area Kaliurang dengan fasilitas gym dan keamanan 24 jam, memberikan kenyamanan maksimal.",
+      "owner_contact": {
+        "name": "Hendra",
+        "phone": "081234567004"
+      }
     },
     {
       "id": 5,
@@ -63,7 +79,11 @@
       "price_per_month": 3250000,
       "rating": 4.1,
       "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"],
-      "description": "Apartemen nyaman dengan desain modern dan akses lift, terletak di pusat kawasan Seturan yang ramai."
+      "description": "Apartemen nyaman dengan desain modern dan akses lift, terletak di pusat kawasan Seturan yang ramai.",
+      "owner_contact": {
+        "name": "Yudi",
+        "phone": "081234567005"
+      }
     },
     {
       "id": 6,
@@ -76,7 +96,11 @@
       "price_per_month": 3450000,
       "rating": 4.2,
       "facilities": ["AC", "WiFi", "Parkir Mobil"],
-      "description": "Hunian modern dengan lokasi strategis dekat bandara Adisucipto dan akses transportasi mudah ke pusat kota."
+      "description": "Hunian modern dengan lokasi strategis dekat bandara Adisucipto dan akses transportasi mudah ke pusat kota.",
+      "owner_contact": {
+        "name": "Lina",
+        "phone": "081234567006"
+      }
     },
     {
       "id": 7,
@@ -89,7 +113,11 @@
       "price_per_month": 3600000,
       "rating": 4.5,
       "facilities": ["AC", "WiFi", "Kolam Renang", "Parkir Mobil"],
-      "description": "Apartemen elegan di jantung kota Yogyakarta dengan akses langsung ke Malioboro City Mall dan fasilitas kolam renang."
+      "description": "Apartemen elegan di jantung kota Yogyakarta dengan akses langsung ke Malioboro City Mall dan fasilitas kolam renang.",
+      "owner_contact": {
+        "name": "Adi",
+        "phone": "081234567007"
+      }
     },
     {
       "id": 8,
@@ -102,7 +130,11 @@
       "price_per_month": 3800000,
       "rating": 4.4,
       "facilities": ["AC", "WiFi", "Kolam Renang", "Parkir Mobil"],
-      "description": "Apartemen premium di kompleks Mataram City dengan fasilitas mewah dan pemandangan kota Yogyakarta."
+      "description": "Apartemen premium di kompleks Mataram City dengan fasilitas mewah dan pemandangan kota Yogyakarta.",
+      "owner_contact": {
+        "name": "Dewi",
+        "phone": "081234567008"
+      }
     },
     {
       "id": 9,
@@ -115,7 +147,11 @@
       "price_per_month": 3050000,
       "rating": 4.1,
       "facilities": ["AC", "WiFi", "Parkir Mobil"],
-      "description": "Apartemen dengan akses langsung ke Jogja City Mall, cocok bagi Anda yang menyukai kemudahan dan hiburan."
+      "description": "Apartemen dengan akses langsung ke Jogja City Mall, cocok bagi Anda yang menyukai kemudahan dan hiburan.",
+      "owner_contact": {
+        "name": "Hans",
+        "phone": "081234567009"
+      }
     },
     {
       "id": 10,
@@ -128,7 +164,11 @@
       "price_per_month": 3250000,
       "rating": 4.1,
       "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"],
-      "description": "Apartemen praktis di kawasan ramai Seturan, dengan fasilitas lift dan akses mudah ke area kampus."
+      "description": "Apartemen praktis di kawasan ramai Seturan, dengan fasilitas lift dan akses mudah ke area kampus.",
+      "owner_contact": {
+        "name": "Tono",
+        "phone": "081234567010"
+      }
     },
     {
       "id": 11,
@@ -141,7 +181,11 @@
       "price_per_month": 3000000,
       "rating": 4.0,
       "facilities": ["AC", "WiFi", "Parkir Motor"],
-      "description": "Apartemen ekonomis di kawasan Kaliurang dengan fasilitas dasar lengkap dan suasana lingkungan yang tenang."
+      "description": "Apartemen ekonomis di kawasan Kaliurang dengan fasilitas dasar lengkap dan suasana lingkungan yang tenang.",
+      "owner_contact": {
+        "name": "Nita",
+        "phone": "081234567011"
+      }
     },
     {
       "id": 12,
@@ -154,7 +198,11 @@
       "price_per_month": 6500000,
       "rating": 4.5,
       "facilities": ["AC", "WiFi", "Kolam Renang", "Gym", "Parkir Mobil"],
-      "description": "Apartemen eksklusif di pusat bisnis Jakarta, dekat Bundaran HI dengan fasilitas lengkap dan akses transportasi mudah."
+      "description": "Apartemen eksklusif di pusat bisnis Jakarta, dekat Bundaran HI dengan fasilitas lengkap dan akses transportasi mudah.",
+      "owner_contact": {
+        "name": "Wawan",
+        "phone": "081234567012"
+      }
     },
     {
       "id": 13,
@@ -167,7 +215,11 @@
       "price_per_month": 4500000,
       "rating": 4.2,
       "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"],
-      "description": "Apartemen populer di kawasan Kalibata dengan akses langsung ke mall dan transportasi umum."
+      "description": "Apartemen populer di kawasan Kalibata dengan akses langsung ke mall dan transportasi umum.",
+      "owner_contact": {
+        "name": "Oka",
+        "phone": "081234567013"
+      }
     },
     {
       "id": 14,
@@ -180,7 +232,11 @@
       "price_per_month": 12000000,
       "rating": 4.8,
       "facilities": ["AC", "WiFi", "Kolam Renang", "Gym", "Parkir Mobil", "Keamanan 24 Jam"],
-      "description": "Apartemen mewah di area elit Kebayoran Baru dengan desain modern dan fasilitas premium."
+      "description": "Apartemen mewah di area elit Kebayoran Baru dengan desain modern dan fasilitas premium.",
+      "owner_contact": {
+        "name": "Tara",
+        "phone": "081234567014"
+      }
     },
     {
       "id": 15,
@@ -193,7 +249,11 @@
       "price_per_month": 4200000,
       "rating": 4.3,
       "facilities": ["AC", "WiFi", "Kolam Renang", "Parkir Mobil"],
-      "description": "Apartemen nyaman di selatan Surabaya dengan fasilitas kolam renang dan lokasi dekat pusat perbelanjaan."
+      "description": "Apartemen nyaman di selatan Surabaya dengan fasilitas kolam renang dan lokasi dekat pusat perbelanjaan.",
+      "owner_contact": {
+        "name": "Rudi",
+        "phone": "081234567015"
+      }
     },
     {
       "id": 16,
@@ -206,7 +266,11 @@
       "price_per_month": 3900000,
       "rating": 4.2,
       "facilities": ["AC", "WiFi", "Lift", "Parkir Mobil"],
-      "description": "Apartemen strategis dekat kampus UK Petra dan ITS dengan lingkungan aman dan fasilitas lengkap."
+      "description": "Apartemen strategis dekat kampus UK Petra dan ITS dengan lingkungan aman dan fasilitas lengkap.",
+      "owner_contact": {
+        "name": "Mega",
+        "phone": "081234567016"
+      }
     }
   ]
 }
